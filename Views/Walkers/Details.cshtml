@@ -1,0 +1,76 @@
+﻿@model DogGo.Models.ViewModels.WalkerDetailsViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+<div>
+    <h1 class="mb-4">Walker Profile</h1>
+
+    <section class="container">
+        <img style="width:100px;float:left;margin-right:20px"
+             src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Font_Awesome_5_regular_user-circle.svg" />
+        <div>
+            <label class="font-weight-bold">Name:</label>
+            <span>@Model.Walker.Name</span>
+        </div>
+        <div>
+            <label class="font-weight-bold">Neighborhood:</label>
+            <span>@Model.Walker.Neighborhood.Name</span>
+        </div>
+    </section>
+
+    <div class="row">
+        <section class="col-8 container mt-5">
+            <h1 class="text-left">Recent Walks</h1>
+
+            <div class="row">
+                @foreach (Walks walks in Model.Walks)
+                {
+                    <div class="card m-4" style="width: 18rem;">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>
+                                        <h6>Date</h6>
+                                    </th>
+                                    <th>
+                                        <h6>Client</h6>
+                                    </th>
+                                    <th>
+                                        <h6>Duration</h6>
+                                    </th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model.Walks)
+                                {
+                                    <tr>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Date)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Walker.Name)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Duration)
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                }
+            </div>
+        </section>
+
+        <section class="col-lg-4 col-md-8 container mt-5">
+                @foreach (Walks walks in Model.Walks)
+                {
+                    <h6>Total Walk Time: @Html.DisplayFor(modelItem => walks.Duration)</h6>
+                }
+        </section>
+    </div>
+</div>

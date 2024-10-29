@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\workspace\\DogGo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD40A41-B5DE-4759-AB36-0905582E914D}|DogGo.csproj|c:\\users\\user\\workspace\\doggo\\repositories\\dogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD40A41-B5DE-4759-AB36-0905582E914D}|DogGo.csproj|solutionrelative:repositories\\dogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD40A41-B5DE-4759-AB36-0905582E914D}|DogGo.csproj|c:\\users\\user\\workspace\\doggo\\models\\walker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD40A41-B5DE-4759-AB36-0905582E914D}|DogGo.csproj|solutionrelative:models\\walker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD40A41-B5DE-4759-AB36-0905582E914D}|DogGo.csproj|c:\\users\\user\\workspace\\doggo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD40A41-B5DE-4759-AB36-0905582E914D}|DogGo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD40A41-B5DE-4759-AB36-0905582E914D}|DogGo.csproj|c:\\users\\user\\workspace\\doggo\\repositories\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD40A41-B5DE-4759-AB36-0905582E914D}|DogGo.csproj|solutionrelative:repositories\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD40A41-B5DE-4759-AB36-0905582E914D}|DogGo.csproj|c:\\users\\user\\workspace\\doggo\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD40A41-B5DE-4759-AB36-0905582E914D}|DogGo.csproj|solutionrelative:controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD40A41-B5DE-4759-AB36-0905582E914D}|DogGo.csproj|c:\\users\\user\\workspace\\doggo\\controllers\\walkerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD40A41-B5DE-4759-AB36-0905582E914D}|DogGo.csproj|solutionrelative:controllers\\walkerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD40A41-B5DE-4759-AB36-0905582E914D}|DogGo.csproj|c:\\users\\user\\workspace\\doggo\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD40A41-B5DE-4759-AB36-0905582E914D}|DogGo.csproj|solutionrelative:controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Walker.cs",
+              "DocumentMoniker": "C:\\Users\\user\\workspace\\DogGo\\Models\\Walker.cs",
+              "RelativeDocumentMoniker": "Models\\Walker.cs",
+              "ToolTip": "C:\\Users\\user\\workspace\\DogGo\\Models\\Walker.cs",
+              "RelativeToolTip": "Models\\Walker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:27:52.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\workspace\\DogGo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\workspace\\DogGo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:07:58.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OwnerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\workspace\\DogGo\\Repositories\\OwnerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OwnerRepository.cs",
+              "ToolTip": "C:\\Users\\user\\workspace\\DogGo\\Repositories\\OwnerRepository.cs",
+              "RelativeToolTip": "Repositories\\OwnerRepository.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAswMAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:56:58.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OwnerController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\workspace\\DogGo\\Controllers\\OwnerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OwnerController.cs",
+              "ToolTip": "C:\\Users\\user\\workspace\\DogGo\\Controllers\\OwnerController.cs",
+              "RelativeToolTip": "Controllers\\OwnerController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:47:17.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\workspace\\DogGo\\Repositories\\DogRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\DogRepository.cs",
+              "ToolTip": "C:\\Users\\user\\workspace\\DogGo\\Repositories\\DogRepository.cs",
+              "RelativeToolTip": "Repositories\\DogRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwDoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:08:49.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WalkersController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\workspace\\DogGo\\Controllers\\WalkersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WalkersController.cs",
+              "ToolTip": "C:\\Users\\user\\workspace\\DogGo\\Controllers\\WalkersController.cs",
+              "RelativeToolTip": "Controllers\\WalkersController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowGoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:05:32.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DogController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\workspace\\DogGo\\Controllers\\DogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DogController.cs",
+              "ToolTip": "C:\\Users\\user\\workspace\\DogGo\\Controllers\\DogController.cs",
+              "RelativeToolTip": "Controllers\\DogController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAA9wDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T18:23:24.632Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
